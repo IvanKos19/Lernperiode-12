@@ -3,8 +3,17 @@
 ### Beschreibung
 In dieser Lernperiode möchte ich ein kleines Projekt umsetzen, bei dem ich eine für mich neue Technologie ausprobiere. Das Ziel ist nicht, ein großes oder komplexes Produkt zu entwickeln, sondern erste Erfahrungen zu sammeln, Grundfunktionen umzusetzen und zu verstehen, wie die neue Technologie aufgebaut ist. Dabei möchte ich einfache Schritte wie das Einrichten des Projekts, das Umsetzen kleiner User Stories und das Dokumentieren meines Lernfortschritts durchführen. Das Projekt soll mir helfen, meine Fähigkeiten zu erweitern und mich für spätere Module oder Bewerbungsprojekte besser vorzubereiten.
 
-07.11.2025
+### 07.11.2025
 - [X]Neue Technologie auswählen und kurz begründen, warum sie geeignet ist
-- [ ]Eine einfache Projektidee formulieren und zwei User Stories erstellen
-- [ ]Grundprojekt einrichten und eine minimale Startseite erstellen
-- [ ]Erste User Story technisch umsetzen (z. B. Eingabe + Anzeige)
+- [X]Eine einfache Projektidee formulieren und zwei User Stories erstellen
+- [X]Grundprojekt einrichten und eine minimale Startseite erstellen
+- [X]Erste User Story technisch umsetzen (z. B. Eingabe + Anzeige)
+
+### Zusammenfassung
+Heute habe ich eine neue Technologie ausgewählt und begründet, warum sie für mein Projekt geeignet ist. Danach habe ich eine einfache Projektidee entwickelt und zwei passende User Stories formuliert. Anschließend habe ich das Grundprojekt eingerichtet und eine minimale Startseite erstellt. Zum Schluss habe ich die erste User Story erfolgreich umgesetzt und grundlegende Funktionalität eingebaut. (Wortanzahl 60)
+
+### 14.11.2025
+- [ ]Zweite User Story technisch umsetzen (z. B. Einträge löschen oder bearbeiten)
+- [ ]Grundlegendes Styling hinzufügen, damit die App übersichtlicher wirkt
+- [ ]Kleine Fehler testen und einfache Korrekturen durchführen
+- [ ]Kurze Dokumentation zum bisherigen Fortschritt schreiben
