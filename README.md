@@ -23,7 +23,7 @@ Heute habe ich an meinem neuen Projekt gearbeitet, einem kleinen Link-Shortener,
 (Wortanzahl 64)
 
 ### 21.11.2025
-- [ ] Funktion hinzufügen, um alle erzeugten Kurzlinks in einer Liste anzuzeigen
+- [X] Funktion hinzufügen, um alle erzeugten Kurzlinks in einer Liste anzuzeigen
 - [ ] Speicherung der Kurzlinks in einer einfachen JSON-Datei implementieren
 - [ ] Verbesserte Fehlermeldungen einbauen (z. B. ungültige URL)
 - [ ] Kurzes technisches Architekturdiagramm (Flow) erstellen
