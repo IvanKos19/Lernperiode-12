@@ -25,5 +25,15 @@ Heute habe ich an meinem neuen Projekt gearbeitet, einem kleinen Link-Shortener,
 ### 21.11.2025
 - [X] Funktion hinzufügen, um alle erzeugten Kurzlinks in einer Liste anzuzeigen
 - [ ] Speicherung der Kurzlinks in einer einfachen JSON-Datei implementieren
-- [ ] Verbesserte Fehlermeldungen einbauen (z. B. ungültige URL)
+- [X] Verbesserte Fehlermeldungen einbauen (z. B. ungültige URL)
 - [ ] Kurzes technisches Architekturdiagramm (Flow) erstellen
+
+### Zusammenfassung
+Am 21.11.2025 habe ich bei meinem Flask-Link-Shortener die Funktion ergänzt, alle erzeugten Kurzlinks in einer Liste anzuzeigen, und die Fehlermeldungen bei ungültigen URLs verbessert. Zwei Arbeitspakete, die Speicherung der Kurzlinks in einer JSON-Datei und ein technisches Architekturdiagramm, habe ich noch nicht abgeschlossen und auf die nächste Woche verschoben, sehe aber einen klaren Fortschritt im Projekt.
+(Wortanzahl 55)
+
+### 28.11.2025
+- [ ] Speicherung der Kurzlinks in einer einfachen JSON-Datei implementieren
+- [ ] Kurzes technisches Architekturdiagramm (Request–Antwort-Flow) erstellen
+- [ ] Einfache Löschfunktion für bestehende Kurzlinks hinzufügen
+- [ ] Kurze Reflexion zur Arbeit mit Flask und zum aktuellen Projektstand schreiben
