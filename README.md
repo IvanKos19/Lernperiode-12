@@ -37,3 +37,22 @@ Am 21.11.2025 habe ich bei meinem Flask-Link-Shortener die Funktion ergänzt, al
 - [ ] Kurzes technisches Architekturdiagramm (Request–Antwort-Flow) erstellen
 - [ ] Einfache Löschfunktion für bestehende Kurzlinks hinzufügen
 - [ ] Kurze Reflexion zur Arbeit mit Flask und zum aktuellen Projektstand schreiben
+
+### Zusammenfassung
+Da ich an diesem Tag Krank war konnte ich keine Arbeitspakete erledigen
+
+### 07.12.2025
+- [X] Speicherung der Kurzlinks in einer einfachen JSON-Datei implementieren
+- [X] Kurzes technisches Architekturdiagramm (Request–Antwort-Flow) erstellen
+- [X] Einfache Löschfunktion für bestehende Kurzlinks hinzufügen
+- [X] Kurze Reflexion zur Arbeit mit Flask und zum aktuellen Projektstand schreiben
+
+### Zusammenfassung
+Im Verlauf vom DSL Lernatelier habe ich die Speicherung der Kurzlinks in einer JSON-Datei implementiert und damit eine einfache Persistenz für meinen Flask-Link-Shortener geschaffen. Außerdem habe ich ein technisches Architekturdiagramm zum Request–Antwort-Flow erstellt und eine Löschfunktion für bestehende Kurzlinks ergänzt. Zum Abschluss habe ich eine kurze Reflexion zur Arbeit mit Flask und zum aktuellen Projektstand geschrieben.
+(Wortanzahl 67)
+
+### 19.12.2025
+- [ ] Aufgabe für Advent of Code 1
+- [ ] Aufgabe für Advent of Code 2
+- [ ] Basis-UI für den Flask-Link-Shortener leicht verbessern (Layout, Buttons, Übersicht)
+- [ ] JSON-Speicherfunktion erweitern, sodass Klick-Statistiken pro Kurzlink mitgespeichert werden
