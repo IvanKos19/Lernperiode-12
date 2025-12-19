@@ -53,6 +53,11 @@ Im Verlauf vom DSL Lernatelier habe ich die Speicherung der Kurzlinks in einer J
 
 ### 19.12.2025
 - [X] Aufgabe für Advent of Code 1
-- [ ] Aufgabe für Advent of Code 2
-- [ ] Basis-UI für den Flask-Link-Shortener leicht verbessern (Layout, Buttons, Übersicht)
-- [ ] JSON-Speicherfunktion erweitern, sodass Klick-Statistiken pro Kurzlink mitgespeichert werden
+- [X] Aufgabe für Advent of Code 2
+- [X] Basis-UI für den Flask-Link-Shortener leicht verbessern (Layout, Buttons, Übersicht)
+- [X] JSON-Speicherfunktion erweitern, sodass Klick-Statistiken pro Kurzlink mitgespeichert werden
+
+### Abschluss Zusammenfassung
+Heute habe ich alle geplanten Aufgaben für diese Lernperiode erfolgreich abgeschlossen. Neben den beiden Advent of Code Aufgaben konnte ich mein Projekt mit dem Flask Link Shortener weiterentwickeln und die vorgesehenen Funktionen vollständig umsetzen. Trotz einer Krankheitsphase, die mir zwischenzeitlich wertvolle Arbeitszeit genommen hat, bin ich es dennoch gelungen, alle Kernaspekte des Projekts funktional einzubauen. Die Kurzlinks können erzeugt, angezeigt und verarbeitet werden, was zeigt, dass die grundlegende Logik funktioniert. Besonders zufrieden bin ich damit, dass ich eine mir bisher unbekannte Technologie ausprobieren konnte und nun ein besseres Verständnis für Flask, Routing und einfache Web Anwendungen habe. Auch wenn kleinere Optimierungen noch möglich wären, bin ich insgesamt sehr zufrieden mit meinen Ergebnissen und dem Fortschritt, den ich in dieser Lernperiode erzielt habe. (Wortanzahl 137)
+
+
