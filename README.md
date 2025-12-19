@@ -52,7 +52,7 @@ Im Verlauf vom DSL Lernatelier habe ich die Speicherung der Kurzlinks in einer J
 (Wortanzahl 67)
 
 ### 19.12.2025
-- [ ] Aufgabe für Advent of Code 1
+- [X] Aufgabe für Advent of Code 1
 - [ ] Aufgabe für Advent of Code 2
 - [ ] Basis-UI für den Flask-Link-Shortener leicht verbessern (Layout, Buttons, Übersicht)
 - [ ] JSON-Speicherfunktion erweitern, sodass Klick-Statistiken pro Kurzlink mitgespeichert werden
